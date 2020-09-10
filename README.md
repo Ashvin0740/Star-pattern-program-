@@ -1,25 +1,20 @@
 # Star-pattern-program-
 star pattern programs
 ## StarPattern1
-
 *
 **
 ***
 ****
 *****
 ******
-
 ## StarPattern2
-
 ******
 *****
 ****
 ***
 **
 *
-
 ## StarPattern3
-
 *
 **
 ***
@@ -31,10 +26,9 @@ star pattern programs
 ***
 **
 *
-
 ## StarPattern4
 
- enter the number:5
+enter the number:5
      *
     **
    ***
