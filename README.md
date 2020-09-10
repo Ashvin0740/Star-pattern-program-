@@ -9,7 +9,7 @@ star pattern programs
 *****
 ******
 
-##StarPattern2
+## StarPattern2
 
 ******
 *****
@@ -18,7 +18,7 @@ star pattern programs
 **
 *
 
-##StarPattern3
+## StarPattern3
 
 *
 **
@@ -32,7 +32,7 @@ star pattern programs
 **
 *
 
-##StarPattern4
+## StarPattern4
 
  enter the number:5
      *
@@ -40,7 +40,7 @@ star pattern programs
    ***
   ****
  *****
- ##StarPattern5
+ ## StarPattern5
  
   enter the number:5
 *****
@@ -48,7 +48,7 @@ star pattern programs
   ***
    **
     *
- ##StaPattern6
+ ## StaPattern6
  How many rows you want in this pattern?
 6
 Here is your pattern....!!!
