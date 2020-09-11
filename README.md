@@ -62,3 +62,23 @@ Here is your pattern....!!!
  * * * * *
 * * * * * *
 ```
+ ## StarPattern7
+ Enter the number:
+6
+```
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+```
+ ## StarPattern8
+ Enter number:5
+ ```
+     *
+    * *
+   *   *
+  *     *
+ *       *
+```
