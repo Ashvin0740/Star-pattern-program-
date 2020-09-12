@@ -82,3 +82,13 @@ Here is your pattern....!!!
   *     *
  *       *
 ```
+ ## StarPattern9
+ 
+ Enter number:5
+ ```
+ *       *
+  *     *
+   *   *
+    * *
+     *
+```
