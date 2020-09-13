@@ -92,3 +92,35 @@ Here is your pattern....!!!
     * *
      *
 ```
+ ## StarPattern10
+ Enter number:5
+ ```
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+```
+ ## StarPattern11
+ Enter Number:5
+ ```
+    *****
+   *****
+  *****
+ *****
+*****
+```
+ ## StarPattern12
+
+Enter Number:5
+```
+*****
+ *****
+  *****
+   *****
+    *****
+```
