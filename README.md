@@ -124,3 +124,22 @@ Enter Number:5
    *****
     *****
 ```
+ ## StarPattern13
+ Enter Number:5
+ ```
+*
+**
+* *
+*  *
+*****
+ ```
+  ## StarPattern14
+  Enter Number:5
+  ```
+*****
+*  *
+* *
+**
+*
+```
+ 
