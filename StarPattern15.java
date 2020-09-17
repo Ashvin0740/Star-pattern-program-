@@ -8,10 +8,10 @@ public class StarPattern15
         Scanner scanner = new Scanner(System.in);
 
         // Get the number of rows from the user
-        System.out.println("Enter the number of rows needed to print the pattern ");
+        System.out.println("Enter the Number  ");
 
         int rows = scanner.nextInt();
-        System.out.println("## Printing the pattern ##");
+        
         
         // Print i number of stars
         for (int i=1; i<=rows; i++)
