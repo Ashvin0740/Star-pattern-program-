@@ -171,3 +171,22 @@ Enter Number:
  * * * *
 * * * * *
 ```
+## StarPattern17
+Enter Number:5
+```
+1
+12
+123
+1234
+12345
+```
+## StarPattern18
+Enter Number:5
+```
+12345
+1234
+123
+12
+1
+```
+
