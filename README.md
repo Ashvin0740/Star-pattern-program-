@@ -189,4 +189,23 @@ Enter Number:5
 12
 1
 ```
+## StarPattern19
+Enter number:5
+```
+1
+22
+333
+4444
+55555
+```
+## StarPattern20
+Enter number:5
+```
+55555
+4444
+333
+22
+1
+```
+
 
