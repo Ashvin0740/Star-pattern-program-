@@ -220,10 +220,11 @@ Enter Number:5
 ## StarPattern22
 
 Enter Number:5
+```
 11111
 0000
 111
 00
 1
-
+```
 
