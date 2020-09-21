@@ -228,3 +228,12 @@ Enter Number:5
 1
 ```
 
+## StarPattern23
+Enter Number:5
+```
+    1
+   101
+  10101
+ 1010101
+101010101
+```
