@@ -207,5 +207,24 @@ Enter number:5
 22
 1
 ```
+## StarPattern21
 
+Enter Number:5
+```
+1
+00
+111
+0000
+11111
+```
+## StarPattern22
+
+Enter Number:5
+```
+11111
+0000
+111
+00
+1
+```
 
