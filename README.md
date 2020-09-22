@@ -237,3 +237,23 @@ Enter Number:5
  1010101
 101010101
 ```
+## StarPattern24
+Enter Number:5
+```
+A
+BB
+CCC
+DDDD
+EEEEE
+```
+## StarPattern25
+Enter Number:5
+```
+AAAAA
+BBBB
+CCC
+DD
+E
+```
+
+
