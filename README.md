@@ -1,6 +1,7 @@
 # Star-pattern-program 
 
-- star pattern programs on java
+- star pattern programs with java
+
 ## StarPattern1
 ```
 *
