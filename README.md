@@ -1,5 +1,7 @@
-# Star-pattern-program-
-star pattern programs
+# Star-pattern-program 
+
+- star pattern programs with java
+
 ## StarPattern1
 ```
 *
@@ -51,7 +53,7 @@ enter the number:5
     *
 ```
  ## StaPattern6
- How many rows you want in this pattern?
+ How many rows you want in this pattern:-
 6
 Here is your pattern....!!!
 ```
@@ -217,7 +219,7 @@ Enter Number:5
 0000
 11111
 ```
-## StarPattern22
+## StarPattern 22
 
 Enter Number:5
 ```
@@ -246,7 +248,7 @@ CCC
 DDDD
 EEEEE
 ```
-## StarPattern25
+## StarPattern 25
 Enter Number:5
 ```
 AAAAA
