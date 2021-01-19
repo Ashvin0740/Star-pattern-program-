@@ -257,7 +257,7 @@ CCC
 DD
 E
 ```
-## StarPattern 25
+## StarPattern 26
 Enter the number of rows : 6
 ```
   * *   
