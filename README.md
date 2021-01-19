@@ -257,5 +257,13 @@ CCC
 DD
 E
 ```
-
-
+## StarPattern 25
+Enter the number of rows : 6
+```
+  * *   
+*     * 
+*     * 
+* * * * 
+*     * 
+*     * 
+```
